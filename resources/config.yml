@@ -1,0 +1,22 @@
+######################
+###PLugin By FixFac###
+
+###Informacion de Form###
+info-form: "Hola Bienvenido a Nuestro Centro de Reportes "
+#Titulo Para tu Reportes FORM
+title-form: "Reportes"
+
+###########
+
+###Mensaje a no ser Enviado el Reporte###
+report-deny: "§cNo se Puedo Enviar el Reporte"
+##Mensaje Al enviar un Reporte##
+report-accept: "§aTu Reporte Se Envio"
+
+
+###Webhook Link De Discord###
+webhook-link: ""
+### NAME DEL WEBHOOK ###
+name-Webhook: "Reportes System - FixFac"
+### AVATAR PARA TU WEBHOOK
+avatar-webhook: ""

@@ -1,0 +1,11 @@
+name: Reports
+main: fix\fac\Main
+api: 4.0.0
+version: FixFac
+author: Fixfac
+
+permissions:
+  report.command:
+   default: true
+  report.view:
+   default: op
